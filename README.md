@@ -1,1 +1,2 @@
 # CanDo
+CanDo intorduces a new type of labour economy based on value rather than money.Value is created by people who give and receive services without a currency payment stored in banks and determined by employers. Transactions are made under just conditions without the intervention or regulation of third parties.  CanDo gives people the tools needed to bring social justice and equality in the world while reducing the exploitation of labour in the context of gender, ethnicity, nationality, tribe, age and disability.
